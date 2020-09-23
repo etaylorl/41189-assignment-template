@@ -15,32 +15,49 @@ Chandra Sri Maddali (13957865)
 
 TABLE OF CONTENTS 
 1. Introduction                                                                                                                                                         
+
 1.1 State the problem, why it is important/relevant to you and/or more broadly to society                                              
+
 2. Context, background information, justification                                                                                                         
+
 2.1 Research and review literature and how the problem is being addressed by academia, industry, government           
+
 2.2 Identify the system + stakeholders                                                                                                                               
+
 2.3 Identify current models or prevailing frames that are being used to address the problem                                         
+
 2.4 Discuss how prevailing models/frames are preventing the problem from being fully addressed or solved                
+
 3. Conceptual Models                              
+
 3.1 Based on your self-study of the supermarket of models, explain the 3 models that you have chosen                         
+
 3.2 Explain how each of the 3 models work  and how it will be applied in your case                                                       
+
 3.3 Describe any data sources that are needed to construct the 3 models                                                                         
+
 Reference List 
 
 
 1. Introduction
+
 1.1 State the problem, why is it important/relevant to you and/or more broadly to society?
 Technological advancement in developing countries has been limited due to the amount of resources available. This places a disadvantage on those affected, to have a lack of education. Globally, this is a known issue as compared to developed countries’ education systems, the developing have poorer infrastructure, limited resources to facilitate people to study, which in turn results in fewer opportunities. This is an important issue in society today as education has the power to broaden our understanding and perspectives, and to change and prepare people for the ever changing world around them. Education is relevant in many communities today as it reduces the risk of poverty, improves productivity and education, gains critical thinking and analysis skills, and people have a greater sense of discipline (UOP, 2019).
  
 2. Context, background information, justification
+
 2.1 Research and review literature, news, digital media, drivers and how the problem is being addressed by academia, industry, government, etc
+
 Unicef: 
+
 The United Nations International Children’s Emergency Fund (UNICEF) was created in 1946 to assist children in rural, hard to reach areas or developing countries, to provide emergency services such as healthcare, food and shelter. Since then, UNICEF have expanded their provisions to assist over 58 million children who do not receive education. When developing countries face war, conflict or other humanitarian disasters, UNICEF steps in. They run programs such as early childhood education in Cambodia. This program is based around pre-school education for children living in poor urban communities, targeting those with disabilities. UNICEF’s program is centred around Early Childhood Education (ECE) to develop a child’s mental and physical well-being and enables those children involved with preparation and initiative to go forward to primary education. ECE Cambodia assists with training teachers and parents so they are able to educate children. UNICEF also has built preschool infrastructure in local communities with chairs, desks, chalk / white boards and sporting equipment. The aim of these facilities is to increase the number of children who attend ECE, which in turn can expand their knowledge and willingness to continue studying through primary and secondary education (UNICEF Australia, 2019). 
 
 Givewell:
+
 Givewell is a non-for-profit organisation who assist financially with other organisations and charities. They provide ideas and plan programs and opportunities depending on the scale and scope of the issue being tackled. Their main focus is on saving, improving and nurturing life in areas of the globe that are less fortunate with essentials such as education. Some of the ways Givewell addresses the problem of education is through information based interventions; this includes involvement in demand. Developing countries require certain items to be able to run programs and some countries struggle with supplying these resources. Therefore, Givewell gives funds and equipment to those in need and facilitates scholarship programs, transportation, clothing and uniforms for school, materials like books, pens and electronic devices. This increases access to education and enhances learning with technological improvements. Givewell also works alongside governments to monitor progress and management of the system. In many cases, decentralised management systems are put in place to measure student progress, teaching performance and the payroll. For low-income countries Givewell has numerous ways to create a positive effect on education. Givewell aims for children and adults to pursue education until they receive a degree. This will ensure long-term productivity and increase the country's economy with positive linear growth. Evidence of this is shown through Givewell’s help with Ghana. With the removal of enrollment fees into primary and secondary education, there is a much higher increase in people attaining their degree and improved standard of living, compared to when enrollment fees are put in place. Education also reduces the risk of violence and conflict within developing areas with less pressure for young girls to be married or paid off to boost girls and women education (GiveWell, n.d).
 
 UNESCO:
+
 The United Nations Educational, Scientific and Cultural Organization (UNESCO) promotes collaboration between nations through education for peace, justice and human rights. UNESCO’s education mission, Education for all (EFA) focuses on eradicating poverty and having a long term development in countries without stable education systems. EFA aims to provide education to those in developing countries worldwide from early childhood to adulthood. UNESCO works to provide international help with infrastructure and equipment requirements to supply and maintain high levels of education for all. UNESCO focuses on programs for schools to take part in, such as responding to the changing needs of jobs and research, development of standards and guidelines in relation to legalities, successful policies and practices and technological advancements with government assistance (UNESCO, 2011a). There are strategies which UNESCO use to help developing countries with education including, monitoring implementation of programs, developing legal frameworks, initialising global partnerships and building and strengthening learning institutions. UNESCO also provides free education which promotes lifelong learning and skills development. This also encourages gender equality, empowerment of women, significant decrease in poverty and hunger, reduction in child mortality and growth of sustainable environments (UNESCO, 2011b).
 
 2.2 Identify the system and stakeholders
