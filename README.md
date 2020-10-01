@@ -1,8 +1,8 @@
 # 41189-assignment-Pre-Submission
 
-Introduction To Human Centred Complex Systems
+# Introduction To Human Centred Complex Systems
 
-Many Model Thinking Report: Education 
+# Many Model Thinking Report: Education 
 ![image 1](https://mk0southeastasih56vx.kinstacdn.com/wp-content/uploads/2018/09/mandatoryed_laif_laif_nyt__cambodia_seasid_4_20120305094502.jpg)
 
 (Figure 1.1: Globe Media Asia 2018)
@@ -39,12 +39,12 @@ TABLE OF CONTENTS
 Reference List 
 
 
-1. Introduction
+# 1. Introduction
 
 1.1 State the problem, why is it important/relevant to you and/or more broadly to society?
 Technological advancement in developing countries has been limited due to the amount of resources available. This places a disadvantage on those affected, to have a lack of education. Globally, this is a known issue as compared to developed countries’ education systems, the developing have poorer infrastructure, limited resources to facilitate people to study, which in turn results in fewer opportunities. This is an important issue in society today as education has the power to broaden our understanding and perspectives, and to change and prepare people for the ever changing world around them. Education is relevant in many communities today as it reduces the risk of poverty, improves productivity and education, gains critical thinking and analysis skills, and people have a greater sense of discipline (UOP, 2019).
  
-2. Context, background information, justification
+# 2. Context, background information, justification
 
 2.1 Research and review literature, news, digital media, drivers and how the problem is being addressed by academia, industry, government, etc
 
@@ -83,7 +83,7 @@ Ghana’s ICT educational model (AIDS) focuses on integrating ICT in education f
  
 Although the AAE model has shown promising results since their initiation in Afghanistan; there are still some problems in the model that don’t allow for the issue of unequal access to education in developing countries to be resolved. The COVID-19 pandemic has proved a challenge for the AAE program to continue its operations and it is estimated that 8.7 million children weren’t attending school. Although the education ministry in Afghanistan instructed the children to continue their education at home, the majority of the population working with the AAE program are either refugees or displaced families. Therefore this is a challenge for most families as they did not have the resources to access these education programs from home. Not being able to provide the right resources for children during unprecedented circumstances is one of the problems with this model and should be addressed so the education of children isn’t disrupted in the future. 
  
-3. Conceptual Models
+# 3. Conceptual Models
 
 3.1 Based on your self-study of the supermarket of models, explain the three models that you have chosen to look at the problem
 
