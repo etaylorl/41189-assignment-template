@@ -6,12 +6,17 @@
 (Figure 1.1: Globe Media Asia 2018)
 
 PREPARED BY
+
 Avishti Sharma (13910310)
+
 Samhitha Rallapalli (13922380 )
+
 Srinitya Krishna (13922341 )
+
 Chandra Sri Maddali (13957865)
 
 TABLE OF CONTENTS 
+
 1. Introduction                                                                                                                                                         
 
 1.1 State the problem, why it is important/relevant to you and/or more broadly to society                                              
